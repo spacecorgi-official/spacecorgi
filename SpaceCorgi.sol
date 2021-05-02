@@ -697,7 +697,7 @@ contract SpaceCorgi is Context, IERC20, Ownable {
     uint256 private _tFeeTotal;
 
     string private _name = "SpaceCorgi";
-    string private _symbol = "SPACECORGI";
+    string private _symbol = "SCORGI";
     uint8 private _decimals = 9;
     
     uint256 public _taxFee = 1;
